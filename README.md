@@ -17,7 +17,7 @@ python3 run.py
 1. Установить
 
 ```python
-git clone https://github.com/Maxim-Pekov/everything-recognition
+git clone https://github.com/Maxim-Pekov/everything-recognition.git
 ```
 
 2. Создайте виртуальное окружение:
